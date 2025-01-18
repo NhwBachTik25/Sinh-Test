@@ -1,6 +1,4 @@
-#include <iostream>
-#include <algorithm>  // for __gcd
-#include <utility>    // for pair
+#include <bits/stdc++.h>
 #define int long long
 #define fu(i,a,b) for(int i=a;i<=b;i++)
 #define fd(i,a,b) for(int i=a;i>=b;i--)
